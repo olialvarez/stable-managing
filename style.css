@@ -1,0 +1,15 @@
+body {
+    font-family: 'Times New Roman', serif;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #076742; /* Change this color to the one you prefer */
+    background-image: url('images\ copy/liron.jpg'); /* Replace with the path to your image */
+    background-size: auto 100%; /* Adjust the values as needed */
+    background-color: #076742;
+    background-repeat: no-repeat;
+    background-position: right center;
+}
